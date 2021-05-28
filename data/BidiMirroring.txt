@@ -1,6 +1,6 @@
-# BidiMirroring-12.0.0.txt
-# Date: 2018-11-02, 16:33:00 GMT [KW, LI, RP]
-# © 2018 Unicode®, Inc.
+# BidiMirroring-14.0.0.txt
+# Date: 2021-03-16, 20:52:00 GMT [KW, LI, RP]
+# © 2021 Unicode®, Inc.
 # For terms of use, see http://www.unicode.org/terms_of_use.html
 #
 # Unicode Character Database
@@ -15,7 +15,7 @@
 # value, for which there is another Unicode character that typically has a glyph
 # that is the mirror image of the original character's glyph.
 #
-# The repertoire covered by the file is Unicode 12.0.0.
+# The repertoire covered by the file is Unicode 14.0.0.
 #
 # The file contains a list of lines with mappings from one code point
 # to another one for character-based mirroring.
@@ -453,6 +453,14 @@
 2E27; 2E26 # RIGHT SIDEWAYS U BRACKET
 2E28; 2E29 # LEFT DOUBLE PARENTHESIS
 2E29; 2E28 # RIGHT DOUBLE PARENTHESIS
+2E55; 2E56 # LEFT SQUARE BRACKET WITH STROKE
+2E56; 2E55 # RIGHT SQUARE BRACKET WITH STROKE
+2E57; 2E58 # LEFT SQUARE BRACKET WITH DOUBLE STROKE
+2E58; 2E57 # RIGHT SQUARE BRACKET WITH DOUBLE STROKE
+2E59; 2E5A # TOP HALF LEFT PARENTHESIS
+2E5A; 2E59 # TOP HALF RIGHT PARENTHESIS
+2E5B; 2E5C # BOTTOM HALF LEFT PARENTHESIS
+2E5C; 2E5B # BOTTOM HALF RIGHT PARENTHESIS
 3008; 3009 # LEFT ANGLE BRACKET
 3009; 3008 # RIGHT ANGLE BRACKET
 300A; 300B # LEFT DOUBLE ANGLE BRACKET
